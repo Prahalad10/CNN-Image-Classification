@@ -69,4 +69,3 @@ A convolutional architecture extended to the temporal domain.
 | 3D CNN | Spatio-temporal | Motion + spatial fusion | ~90–95% Accuracy(When preprocessed proeprly) |
 
 ---
-101096_CNN_VideoClassification.ipynb
