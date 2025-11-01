@@ -1,8 +1,6 @@
 # 🧠 Binary Video Classification using CNNs  
 ### Violence Detection in Real-Life Video Clips  
 
-#### Author: *Prahalad M (23011101096)*  
-
 ---
 
 ## 📘 Overview  
